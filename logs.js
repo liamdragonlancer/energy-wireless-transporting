@@ -1,3 +1,8 @@
+const nextConfig = {
+  compiler: {
+    emotion: true,
+    styledComponents: true
+  },
             "Key": "XP",
             "MinValue": "1",
             "MaxValue": "1000000"
